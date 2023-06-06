@@ -1,5 +1,3 @@
-  131  Git --version
-  132  git init
   133  git init
   134  git branch -M main
   135  git status
@@ -21,7 +19,7 @@
   151  mv comandos.txt ../ Software/
   152  mv comandos.txt ../ cd ..
   153  cd Software/
-  154  rm comandos.txt 
+  154  rm comandos.txt
   155  mv resumen.txt ../ Software/
   156  cd..
   157  cd ..
@@ -35,6 +33,6 @@
   165  mv index.html resumenSoftware.txt
   166  history
   167   history 20 >Comandos\ Utilizados/comandos.txt
-  168  history 35 
+  168  history 35
   169  history 40
-  170  history 40 > comandos.txt 
+Commit 4
