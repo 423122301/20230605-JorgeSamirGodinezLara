@@ -1,0 +1,40 @@
+  131  Git --version
+  132  git init
+  133  git init
+  134  git branch -M main
+  135  git status
+  136  git remote add origin https://github.com/423122301/20230605-JorgeSamirGodinezLara.git
+  137  git remote -v
+  138  touch comandos.txt main.js index.html
+  139  git add .
+  140  git commit -m  "commit 01 de JorgeSamirGodinezLara"
+  141  git log
+  142  Git remote -v
+  143  git push origin main
+  144  git branch "feature"
+  145  git branch
+  146  git checkout "feature"
+  147  mkdir Hardware Software SeguridadInformatica
+  148  touch resumen.txt
+  149  cp resumen.txt ../ Hardware/
+  150  cp resumen.txt ../ SeguridadInformatica/
+  151  mv comandos.txt ../ Software/
+  152  mv comandos.txt ../ cd ..
+  153  cd Software/
+  154  rm comandos.txt 
+  155  mv resumen.txt ../ Software/
+  156  cd..
+  157  cd ..
+  158  mv resumen.txt ../ Software/
+  159  touch comandos.txt
+  160  git add .
+  161  git commit -m  "commit 02 de JorgeSamirGodinezLara"
+  162  git push origin feature
+  163  git switch "main"
+  164  mv main.js resumenHardware.txt
+  165  mv index.html resumenSoftware.txt
+  166  history
+  167   history 20 >Comandos\ Utilizados/comandos.txt
+  168  history 35 
+  169  history 40
+  170  history 40 > comandos.txt 
